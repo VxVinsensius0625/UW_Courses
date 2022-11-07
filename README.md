@@ -1,2 +1,2 @@
 # UW_Courses
-UW classes that i have been taking 
+UW classes that i have taken or currently taking
