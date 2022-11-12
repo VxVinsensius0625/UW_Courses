@@ -14,4 +14,4 @@ HW 4: Classifying Politicians (Semi-supervised Learning with Graph Embedding)
 
 HW 5: Compressed Image Recovery (Image Compression)
 
-
+Further improvement on the notebook will be done for ease of reading
