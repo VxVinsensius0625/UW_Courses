@@ -1,5 +1,7 @@
 AMATH 582: Computational Methods Data Analysis 
+
 Winter 2022
+
 By Bamdad Hosseini
 
 HW 1: Finding Submarines (Signal Processing)
